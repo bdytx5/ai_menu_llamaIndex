@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: 'Helvetica', sans-serif; /* Add Helvetica font here */
+
+      }
+
+      #container {
+        position: relative;
+        width: 100dvw;
+        height: 100dvh;
+        padding: 1.5rem;
+        overflow: hidden !important;
+      }
+
+      #chatSection {
+  margin: 2rem auto 0;
+  max-width: 750px;
+  height: calc(100% - 105px); /* Adjust height as needed */
+  padding-bottom: 1rem;
+  overflow-y: scroll; /* Enable vertical scrolling */
+}
+
+      .bubble {
+        max-width: 65%;
+        padding: 12px;
+        border-radius: 10px;
+        margin: 1rem 0;
+      }
+
+      .user-bubble {
+        background-color: #e3ede3;
+        margin-left: auto;
+      }
+
+      .bot-bubble {
+        background-color: #e3fde3;
+      }
+
+      .message {
+        font-size: 1rem;
+        color: #000;
+      }
+
+      #chatActions {
+        width: calc(100vdh - 3rem);
+        max-width: 780px;
+        height: 50px;
+        margin: 0 auto 1.5rem;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      button,
+      a,
+      input {
+        outline: none;
+      }
+
+      #userInput {
+        display: block;
+        width: 70%;
+        margin-right: 1.5rem;
+        height: 50px;
+        padding: 1.5rem;
+        font-size: 1rem;
+      }
+
+      #sendMessage {
+        display: block;
+        width: 75px;
+        height: 50px;
+      }
+    </style>
+    <title>Chat</title>
+  </head>
+  <body>
+    <div id="container">
+      <a id="logout" href="/">
+        <!-- <svg
+          fill="#000000"
+          width="20px"
+          height="20px"
+          viewBox="0 0 1024 1024"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M116.832 543.664H671.28c17.696 0 32-14.336 32-32s-14.304-32-32-32H118.832l115.76-115.76c12.496-12.496 12.496-32.752 0-45.248s-32.752-12.496-45.248 0l-189.008 194 189.008 194c6.256 6.256 14.432 9.376 22.624 9.376s16.368-3.12 22.624-9.376c12.496-12.496 12.496-32.752 0-45.248zM959.664 0H415.663c-35.36 0-64 28.656-64 64v288h64.416V103.024c0-21.376 17.344-38.72 38.72-38.72h464.72c21.391 0 38.72 17.344 38.72 38.72l1.007 818.288c0 21.376-17.328 38.72-38.72 38.72H454.816c-21.376 0-38.72-17.344-38.72-38.72V670.944l-64.416.08V960c0 35.344 28.64 64 64 64h543.984c35.36 0 64.016-28.656 64.016-64V64c-.015-35.344-28.671-64-64.015-64z"
+          />
+        </svg> -->
+        <svg width="20px" height="20px" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" fill="#000000">
+          <path d="M368.832 493.664H923.28c17.696 0 32-14.336 32-32s-14.304-32-32-32H370.832l115.76-115.76c12.496-12.496 12.496-32.752 0-45.248s-32.752-12.496-45.248 0l-189.008 194 189.008 194c6.256 6.256 14.432 9.376 22.624 9.376s16.368-3.12 22.624-9.376c12.496-12.496 12.496-32.752 0-45.248z"/>
+        </svg>
+        
+      </a>
+      <!-- Chat Section -->
+      <div id="chatSection"></div>
+      <!-- Chat Actions -->
+      <div id="chatActions">
+        <input type="text" id="userInput" placeholder="Type something..." />
+        <button id="sendMessage">
+          <svg
+            width="20px"
+            height="20px"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M9.91158 12H7.45579H4L2.02268 4.13539C2.0111 4.0893 2.00193 4.04246 2.00046 3.99497C1.97811 3.27397 2.77209 2.77366 3.46029 3.10388L22 12L3.46029 20.8961C2.77983 21.2226 1.99597 20.7372 2.00002 20.0293C2.00038 19.9658 2.01455 19.9032 2.03296 19.8425L3.5 15"
+              stroke="#000000"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const chatMessages = [
+          {
+            id: 1,
+            isUser: false,
+            message:
+              "Hello, I'm your AI menu assistant, how can I help you today!",
+          },
+        ];
+
+        const chatSection = document.getElementById("chatSection");
+        const userInput = document.getElementById("userInput");
+        const sendMessageButton = document.getElementById("sendMessage");
+
+        sendMessageButton.addEventListener("click", handleSendMessage);
+
+        // function handleSendMessage() {
+        //   const userMessage = userInput.value.trim();
+        //   if (userMessage !== "") {
+        //     addMessage(userMessage, true);
+        //     addMessage("Rile is typing...", false);
+
+        //     // Simulate an API call (replace this with your actual API call)
+        //     setTimeout(() => {
+        //       const botResponse = "This is a response from Rile."; // Replace with actual API response
+        //       updateBotMessage(botResponse);
+        //     }, 2000); // Simulated delay
+
+        //     userInput.value = "";
+        //   }
+        // }
+        function handleSendMessage() {
+  const userMessage = userInput.value.trim();
+  if (userMessage !== "") {
+    addMessage(userMessage, true);
+    addMessage("Assistant is generating results...", false);
+
+    // Make an API call to the Flask /search route
+    fetch('/search', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+      },
+      body: `query=${encodeURIComponent(userMessage)}`,
+    })
+    .then(response => response.json())
+    .then(data => {
+      const botResponse = data.res; // Assuming the response has a 'res' key
+      updateBotMessage(botResponse);
+    })
+    .catch(error => console.error('Error:', error));
+
+    userInput.value = "";
+  }
+}
+
+        // function addMessage(message, isUser) {
+        //   chatMessages.push({
+        //     id: chatMessages.length + 1,
+        //     isUser: isUser,
+        //     message: message,
+        //   });
+        //   renderMessages();
+        // }
+
+        // function updateBotMessage(newMessage) {
+        //   chatMessages[chatMessages.length - 1].message = newMessage;
+        //   renderMessages();
+        // }
+  //       function addMessage(message, isUser) {
+  //         if(chatMessages.length == 1){ // first message, add as normal 
+
+  //         }
+  //         if(chatMessages.length == 2){ // next query -> replace the last message with the new 
+              
+  //         }
+  //   // Insert new message before the last typing message
+  //   chatMessages.splice(chatMessages.length - 1, 0, {
+  //     id: chatMessages.length + 1,
+  //     isUser: isUser,
+  //     message: message,
+  //   });
+  //   renderMessages();
+  // }
+  function addMessage(message, isUser) {
+  // If it's the first user message, add it after the initial greeting
+  if (chatMessages.length === 1) {
+    chatMessages.push({
+      id: chatMessages.length + 1,
+      isUser: isUser,
+      message: message,
+    });
+  }
+  // For the next query, replace the last user message
+  else if (chatMessages.length === 2) {
+    chatMessages[1] = {
+      id: chatMessages[1].id,
+      isUser: isUser,
+      message: message,
+    };
+  }
+  // For all subsequent messages, replace the second last message (keep typing message at the end)
+  else {
+    chatMessages.splice(chatMessages.length - 2, 1, {
+      id: chatMessages.length + 1,
+      isUser: isUser,
+      message: message,
+    });
+  }
+
+  renderMessages();
+}
+
+  function updateBotMessage(newMessage) {
+    // Update the last message (typing message) to the actual response
+    chatMessages[chatMessages.length - 1].message = newMessage;
+    renderMessages();
+  }
+  // function renderMessages() {
+  //   chatSection.innerHTML = "";
+  //   for (let i = 0; i < chatMessages.length - 1; i++) {
+  //     const message = chatMessages[i];
+  //     const messageElement = document.createElement("div");
+  //     messageElement.textContent = message.message;
+  //     messageElement.className = message.isUser
+  //       ? "bubble user-bubble"
+  //       : "bubble bot-bubble";
+  //     chatSection.appendChild(messageElement);
+  //   }
+
+  //   // Always render the typing message
+  //   const typingMessage = chatMessages[chatMessages.length - 1];
+  //   const typingElement = document.createElement("div");
+  //   typingElement.textContent = typingMessage.message;
+  //   typingElement.className = "bubble bot-bubble";
+  //   chatSection.appendChild(typingElement);
+  // }
+  function renderMessages() {
+  chatSection.innerHTML = "";
+  for (let i = 0; i < chatMessages.length - 1; i++) {
+    const message = chatMessages[i];
+    const messageElement = document.createElement("div");
+    messageElement.innerHTML = message.message; // HTML tags in the message will be rendered
+    messageElement.className = message.isUser
+      ? "bubble user-bubble"
+      : "bubble bot-bubble";
+    chatSection.appendChild(messageElement);
+  }
+
+  // Render the typing message
+  const typingMessage = chatMessages[chatMessages.length - 1];
+  const typingElement = document.createElement("div");
+  typingElement.innerHTML = typingMessage.message;
+  typingElement.className = "bubble bot-bubble";
+  chatSection.appendChild(typingElement);
+}
+
+//   function renderMessages() {
+//   chatSection.innerHTML = "";
+//   for (let i = 0; i < chatMessages.length - 1; i++) {
+//     const message = chatMessages[i];
+//     const messageElement = document.createElement("div");
+//     messageElement.innerHTML = message.message.replace(/\n/g, "<br>"); // Replace newline chars with <br>
+//     messageElement.className = message.isUser
+//       ? "bubble user-bubble"
+//       : "bubble bot-bubble";
+//     chatSection.appendChild(messageElement);
+//   }
+
+//   // Always render the typing message
+//   const typingMessage = chatMessages[chatMessages.length - 1];
+//   const typingElement = document.createElement("div");
+//   typingElement.innerHTML = typingMessage.message.replace(/\n/g, "<br>"); // Replace newline chars with <br>
+//   typingElement.className = "bubble bot-bubble";
+//   chatSection.appendChild(typingElement);
+// }
+        renderMessages();
+      });
+    </script>
+  </body>
+</html>

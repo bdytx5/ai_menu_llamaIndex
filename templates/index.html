@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        #pdfViewer {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #chat-page {
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+            cursor: pointer;
+            z-index: 200;
+        }
+
+        .fab {
+            position: fixed;
+            right: 20px;
+            bottom: 20px;
+            cursor: pointer;
+            background-color: #1C98F7;
+            border: none;
+            border-radius: 50%;
+            padding: 15px;
+            color: white;
+            font-size: 24px;
+        }
+
+        .ai-menu-chat-button {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #1C98F7; /* Button color */
+    color: white; /* Text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    </style>
+    <title>Menu Viewer</title>
+</head>
+<body>
+    <!-- PDF Viewer -->
+<div id="pdfViewer">
+    <iframe src="static/menu.pdf" type="application/pdf" width="200%" height="200%" style="border: none;"></iframe>
+</div>
+
+
+<!-- Redirect Button -->
+<button class="ai-menu-chat-button" onclick="window.location.href='/chat'">
+  AI Menu Chat
+</button>
+
+
+</body>
+</html>
