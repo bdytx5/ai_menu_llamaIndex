@@ -1,0 +1,1040 @@
+[
+    {
+        "title": "Chicken Pot Pie",
+        "description": "Freshly baked with roasted chicken, peas, carrots, onions and potatoes folded into a creamy herb sauce. Topped with a flaky crust.",
+        "keywords": "pot pie, chicken, baked",
+        "page": 1
+    },
+    {
+        "title": "Roasted Half Chicken",
+        "description": "Slow-roasted with housemade herb butter. Served with choice of two sides.",
+        "keywords": "chicken, roasted, herb butter",
+        "page": 1
+    },
+    {
+        "title": "Parmesan Crusted Chicken Pasta",
+        "description": "Crispy hand breaded parmesan chicken breast with melted mozzarella and marinara sauce over linguine.",
+        "keywords": "chicken, pasta, parmesan",
+        "page": 1
+    },
+    {
+        "title": "Slow-Roasted Turkey",
+        "description": "Slow-roasted turkey with gravy, cornbread stuffing and orange-apple cranberry relish. Served with choice of two sides.",
+        "keywords": "turkey, roasted, gravy",
+        "page": 1
+    },
+    {
+        "title": "French Pot Roast",
+        "description": "Slowly braised and simmered with carrots, mushrooms and onions. Served on a bed of mashed potatoes.",
+        "keywords": "pot roast, beef, braised",
+        "page": 1
+    },
+    {
+        "title": "Mimi\u2019s Meatloaf",
+        "description": "Our own traditional recipe topped with a red wine shallot sauce. Served with choice of two sides.",
+        "keywords": "meatloaf, traditional, red wine sauce",
+        "page": 1
+    },
+    {
+        "title": "Beer Battered Fish & Chips",
+        "description": "Hand-battered cod fillets with french fries, coleslaw and tartar sauce.",
+        "keywords": "fish, chips, beer battered",
+        "page": 1
+    },
+    {
+        "title": "Coastal Shrimp Pasta",
+        "description": "Saut\u00e9ed shrimp, grape tomatoes, broccoli, and linguine tossed in lemon garlic sauce with white wine reduction.",
+        "keywords": "shrimp, pasta, saut\u00e9ed",
+        "page": 1
+    },
+    {
+        "title": "Hibachi Salmon",
+        "description": "Grilled and topped with a sweet honey glaze. Served with saut\u00e9ed vegetables and long grain rice.",
+        "keywords": "salmon, hibachi, grilled",
+        "page": 1
+    },
+    {
+        "title": "Grilled Atlantic Salmon",
+        "description": "Blackened or grilled. Served with choice of two sides.",
+        "keywords": "salmon, grilled, Atlantic",
+        "page": 1
+    },
+    {
+        "title": "Chicken Cheddar Mac",
+        "description": "Roasted chicken, crumbled bacon with penne in a rich cheddar sauce baked under a parmesan crust.",
+        "keywords": "mac and cheese, chicken, bacon",
+        "page": 1
+    },
+    {
+        "title": "Sandwich Trio",
+        "description": "Choose a cup of soup or petite salad and a half sandwich served with french fries. Options include Turkey Royale, Five-Way Grilled Cheese, Grilled Chicken Ciabatta, and Tuna & Cheddar Melt.",
+        "keywords": "sandwich, soup, salad",
+        "page": 1
+    },
+    {
+        "title": "Trio of Appetizers",
+        "description": "Trio of Hand-Breaded Chicken Tenders, Black and Bleu Quesadilla and Spinach Artichoke Dip with sliced bread.",
+        "keywords": "appetizers, chicken tenders, quesadilla, dip",
+        "page": 1
+    },
+    {
+        "title": "Brochette Trio",
+        "description": "Skewers of grilled spicy peanut chicken, teriyaki shrimp, and ground beef with red wine sauce, served over a bed of baby greens and tomatoes.",
+        "keywords": "brochette, skewers, teriyaki",
+        "page": 1
+    },
+    {
+        "title": "Black and Bleu Quesadilla",
+        "description": "Blackened roasted chicken, bacon, monterey jack, bleu cheese, tomato and green onion in a flour tortilla. Served with coleslaw, bleu cheese dressing and salsa.",
+        "keywords": "quesadilla, blackened chicken, bleu cheese",
+        "page": 1
+    },
+    {
+        "title": "Hand-Breaded Chicken Tenders",
+        "description": "Made from scratch crispy chicken tenders with ranch and buffalo dipping sauces.",
+        "keywords": "chicken tenders, crispy, hand-breaded",
+        "page": 1
+    },
+    {
+        "title": "Baked Brie",
+        "description": "Lightly melted brie cheese with apple-cranberry relish and walnuts, with sliced bread.",
+        "keywords": "baked brie, cheese, relish",
+        "page": 1
+    },
+    {
+        "title": "Spinach Artichoke Dip",
+        "description": "Creamy and cheesy with spinach and artichokes baked to perfection. Served with sliced bread.",
+        "keywords": "spinach, artichoke, dip",
+        "page": 1
+    },
+    {
+        "title": "Chicken Wings",
+        "description": "A dozen crispy traditional chicken wings tossed with classic Buffalo or Mango-Haba\u00f1ero sauce.",
+        "keywords": "chicken wings, buffalo, spicy",
+        "page": 1
+    },
+    {
+        "title": "Cr\u00e8me Br\u00fbl\u00e9e",
+        "description": "A decadent and creamy custard topped with caramelized sugar.",
+        "keywords": "dessert, custard, caramelized",
+        "page": 1
+    },
+    {
+        "title": "Caramel Flan",
+        "description": "Rich and silky flan topped with caramel sauce.",
+        "keywords": "dessert, flan, caramel",
+        "page": 1
+    },
+    {
+        "title": "Caramel Apple Pie",
+        "description": "Warm, buttery caramel and toffee-studded custard with fresh Granny Smith apples in shortbread crust. Served with a scoop of vanilla ice cream.",
+        "keywords": "pie, apple, caramel",
+        "page": 1
+    },
+    {
+        "title": "Bread Pudding",
+        "description": "Made from scratch bread pudding with raisins topped with whiskey sauce and whipped cream.",
+        "keywords": "dessert, bread pudding, whiskey sauce",
+        "page": 1
+    },
+    {
+        "title": "Molten Lava Cake",
+        "description": "Warm molten chocolate cake with vanilla ice cream and a strawberry.",
+        "keywords": "chocolate, cake, molten",
+        "page": 1
+    },
+    {
+        "title": "Lemon Layer Cake",
+        "description": "Meyer lemon cake with zesty custard, frosting and whipped cream.",
+        "keywords": "cake, lemon, custard",
+        "page": 1
+    },
+    {
+        "title": "Ribeye Steak",
+        "description": "28-day aged, 10 oz. USDA Choice ribeye steak. House-made herb butter available upon request, your choice blackened or grilled. Served with choice of two sides.",
+        "keywords": "steak, ribeye, USDA Choice",
+        "page": 1
+    },
+    {
+        "title": "Pot Roast Dinner",
+        "description": "Slowly braised and simmered.",
+        "keywords": "pot roast, dinner, braised",
+        "page": 1
+    },
+    {
+        "title": "TEN LAVA CAKE",
+        "description": "Warm molten chocolate cake with vanilla ice cream and a strawberry.",
+        "keywords": "dessert, chocolate, cake, ice cream",
+        "page": 1
+    },
+    {
+        "title": "LEMON LAYER CAKE",
+        "description": "Meyer lemon cake with zesty custard, frosting and whipped cream.",
+        "keywords": "dessert, lemon, cake, custard",
+        "page": 1
+    },
+    {
+        "title": "RIBEYE STEAK",
+        "description": "28-day aged, 10 oz. USDA Choice ribeye steak, house-made herb butter, served with choice of two sides.",
+        "keywords": "entree, steak, ribeye, grilled",
+        "page": 1
+    },
+    {
+        "title": "POT ROAST DINNER",
+        "description": "Slowly braised and simmered in red wine shallot gravy, served with choice of two sides.",
+        "keywords": "entree, pot roast, braised, comfort food",
+        "page": 1
+    },
+    {
+        "title": "JAMBALAYA",
+        "description": "Shrimp, chicken and andouille sausage with bell peppers and onions in a spicy tomato sauce over your choice of penne pasta or rice.",
+        "keywords": "entree, jambalaya, shrimp, spicy",
+        "page": 1
+    },
+    {
+        "title": "NEW YORK STRIP STEAK",
+        "description": "10 oz. USDA Choice New York Strip dry-aged 28 days, blackened or grilled, served with choice of two sides.",
+        "keywords": "entree, steak, New York Strip, grilled",
+        "page": 1
+    },
+    {
+        "title": "FRENCH ONION SOUP",
+        "description": "A savory broth with onions topped with crouton, swiss and parmesan cheese.",
+        "keywords": "soup, French onion, cheese, appetizer",
+        "page": 1
+    },
+    {
+        "title": "TOMATO BASIL SOUP",
+        "description": "A creamy blend of vine-ripened tomatoes and fresh basil.",
+        "keywords": "soup, tomato, basil, appetizer",
+        "page": 1
+    },
+    {
+        "title": "CORN CHOWDER",
+        "description": "A hearty chowder with sweet cream, corn, potatoes, celery and onion.",
+        "keywords": "soup, corn chowder, cream, appetizer",
+        "page": 1
+    },
+    {
+        "title": "BACON, BLEU CHEESE & WALNUT SALAD",
+        "description": "Crisp bacon, strawberries, dried cranberries, tomato, crumbled bleu cheese and mixed greens with balsamic dressing.",
+        "keywords": "salad, bacon, bleu cheese, walnut",
+        "page": 1
+    },
+    {
+        "title": "MIMI\u2019S CHOPPED COBB",
+        "description": "Slow-roasted turkey, bacon, chopped egg, avocado, green onions, tomatoes and crumbled bleu cheese on lettuce with your dressing of choice.",
+        "keywords": "salad, Cobb, turkey, bacon",
+        "page": 1
+    },
+    {
+        "title": "CHICKEN & QUINOA MEDITERRANEAN SALAD",
+        "description": "Pulled roasted chicken, tomatoes, cucumbers, artichoke hearts, onions, olives, feta cheese and quinoa blend on romaine lettuce with red wine shallot vinaigrette.",
+        "keywords": "salad, chicken, Mediterranean, quinoa",
+        "page": 1
+    },
+    {
+        "title": "BERRY SPINACH SHRIMP & QUINOA SALAD",
+        "description": "Grilled shrimp, strawberries, blueberries, feta and quinoa blend on baby spinach tossed in fat-free raspberry vinaigrette.",
+        "keywords": "salad, shrimp, berry, quinoa",
+        "page": 1
+    },
+    {
+        "title": "ASIAN CHICKEN SALAD",
+        "description": "Roasted chicken, bell peppers, green onions, mandarin oranges and cilantro on shredded cabbage and romaine lettuce tossed with sesame dressing, topped with fried wontons and sesame seeds.",
+        "keywords": "salad, chicken, Asian, sesame",
+        "page": 1
+    },
+    {
+        "title": "CITRUS SALMON SALAD",
+        "description": "Grilled salmon with tomatoes, strawberries, citrus wedges on baby greens with balsamic dressing.",
+        "keywords": "salad, salmon, citrus, grilled",
+        "page": 1
+    },
+    {
+        "title": "QUICHE LORRAINE",
+        "description": "Housemade with hickory-smoked bacon, green onion, mozzarella and aged parmesan, served with petite house salad.",
+        "keywords": "entree, quiche, bacon, parmesan",
+        "page": 1
+    },
+    {
+        "title": "QUICHE FLORENTINE",
+        "description": "Housemade with baby spinach, tomato, mozzarella, and aged parmesan, served with petite house salad.",
+        "keywords": "entree, quiche, spinach, tomato",
+        "page": 1
+    },
+    {
+        "title": "FRENCH DIP SANDWICH",
+        "description": "Sliced roast beef on ciabatta bread with au jus, optional bell peppers, caramelized onions, mushroom and mozzarella.",
+        "keywords": "sandwich, beef, ciabatta, French Dip",
+        "page": 1
+    },
+    {
+        "title": "CROQUE MONSIEUR",
+        "description": "Smoked ham and swiss cheese warm on toasted sourdough topped with creamy mornay sauce and melted parmesan.",
+        "keywords": "sandwich, ham, Swiss cheese, mornay sauce",
+        "page": 1
+    },
+    {
+        "title": "ROASTED TURKEY CLUB",
+        "description": "Triple-decker slow-roasted turkey, bacon, lettuce, tomato and mayonnaise on toasted sourdough, with an option to add avocado.",
+        "keywords": "sandwich, turkey, club, bacon",
+        "page": 1
+    },
+    {
+        "title": "TURKEY PESTO CIABATTA",
+        "description": "Slow-roasted turkey, bacon, mozzarella, avocado, tomato, baby greens with balsamic dressing and basil pesto mayo on grilled ciabatta.",
+        "keywords": "sandwich, turkey, pesto, ciabatta",
+        "page": 1
+    },
+    {
+        "title": "POT ROAST SANDWICH",
+        "description": "Warm slow-cooked pot roast with ripe tomato, lettuce, and mayonnaise on toasted ciabatta bread.",
+        "keywords": "sandwich, pot roast, ciabatta, comfort food",
+        "page": 1
+    },
+    {
+        "title": "FRENCH QUARTER BURGER",
+        "description": "USDA premium beef patty, bacon, swiss cheese, avocado, lettuce, tomato, onion, pickles and thousand island dressing on grilled garlic-parmesan sourdough.",
+        "keywords": "burger, beef, bacon, Swiss cheese",
+        "page": 1
+    },
+    {
+        "title": "MUSHROOM & BRIE MELT BURGER",
+        "description": "USDA premium beef patty with saut\u00e9ed mushrooms, caramelized onions, and melted brie on grilled sourdough.",
+        "keywords": "burger, beef, mushroom, brie",
+        "page": 1
+    },
+    {
+        "title": "BRIOCHE CHEESEBURGER",
+        "description": "USDA premium beef patty with choice of cheese, lettuce, tomatoes, and red onion on brioche.",
+        "keywords": "burger, beef, cheeseburger, brioche",
+        "page": 1
+    },
+    {
+        "title": "MUSHROOM & BRIE MELT",
+        "description": "100% USDA premium beef patty with saut\u00e9ed mushrooms, caramelized onions, and melted brie on grilled sourdough.",
+        "keywords": "burger, mushroom, brie, beef",
+        "page": 1
+    },
+    {
+        "title": "PETITE HOUSE SALAD",
+        "description": "Tossed in red wine shallot vinaigrette dressing.",
+        "keywords": "salad, vinaigrette",
+        "page": 1
+    },
+    {
+        "title": "PETITE CAESAR SALAD",
+        "description": "Classic Caesar salad.",
+        "keywords": "salad, caesar",
+        "page": 1
+    },
+    {
+        "title": "SHRIMP SKEWERS",
+        "description": "Grilled shrimp skewers.",
+        "keywords": "seafood, shrimp, grilled",
+        "page": 1
+    },
+    {
+        "title": "BACON STRIPS",
+        "description": "Crispy bacon strips.",
+        "keywords": "side, bacon, pork",
+        "page": 1
+    },
+    {
+        "title": "AVOCADO",
+        "description": "Fresh avocado.",
+        "keywords": "side, avocado, healthy",
+        "page": 1
+    },
+    {
+        "title": "MIXED FRUIT",
+        "description": "Assorted fresh fruits.",
+        "keywords": "side, fruit, healthy",
+        "page": 1
+    },
+    {
+        "title": "CROISSANT",
+        "description": "Buttery flaky croissant.",
+        "keywords": "side, pastry, french",
+        "page": 1
+    },
+    {
+        "title": "MUFFIN",
+        "description": "Fresh baked muffin.",
+        "keywords": "side, pastry, muffin",
+        "page": 1
+    },
+    {
+        "title": "CARROT RAISIN NUT LOAF",
+        "description": "Carrot raisin bread with nuts.",
+        "keywords": "side, loaf, nut",
+        "page": 1
+    },
+    {
+        "title": "TUSCAN STYLE GRILLED CHICKEN",
+        "description": "Grilled chicken, mashed potatoes, saut\u00e9ed vegetables and artichoke hearts served in a savory sauce.",
+        "keywords": "entree, chicken, grilled",
+        "page": 1
+    },
+    {
+        "title": "GRAND BREAKFAST",
+        "description": "Served with two eggs any style and your choice of meat, with an option to substitute protein with slow-cooked corned beef hash.",
+        "keywords": "entree, breakfast, eggs",
+        "page": 1
+    },
+    {
+        "title": "PAIN PERDU WITH MIXED BERRIES",
+        "description": "Stuffed brioche french toast filled with orange marmalade and cream cheese blend, topped with fresh berries and strawberry pur\u00e9e.",
+        "keywords": "entree, french toast, berries",
+        "page": 1
+    },
+    {
+        "title": "MALTED WAFFLES",
+        "description": "Buttermilk-malt waffles with whipped margarine and maple syrup.",
+        "keywords": "entree, breakfast, waffles",
+        "page": 1
+    },
+    {
+        "title": "BRIOCHE FRENCH TOAST",
+        "description": "French toast dusted with powdered sugar served with whipped margarine and maple syrup.",
+        "keywords": "entree, french toast, breakfast",
+        "page": 1
+    },
+    {
+        "title": "CINNAMON ROLL FRENCH TOAST",
+        "description": "Cinnamon roll french toast with powdered sugar, cinnamon and nutmeg.",
+        "keywords": "entree, french toast, cinnamon",
+        "page": 1
+    },
+    {
+        "title": "BUTTERMILK GRIDDLECAKES",
+        "description": "Four buttermilk griddlecakes served with whipped margarine and maple syrup.",
+        "keywords": "entree, pancakes, breakfast",
+        "page": 1
+    },
+    {
+        "title": "FRIED CHICKEN & WAFFLES",
+        "description": "Crispy hand-breaded chicken and two malted waffles served with maple syrup.",
+        "keywords": "entree, chicken, waffles",
+        "page": 1
+    },
+    {
+        "title": "STEAK & EGGS",
+        "description": "28-day aged 10 oz. USDA Choice New York Strip with housemade herb butter, served with roasted potatoes and two eggs.",
+        "keywords": "entree, steak, eggs",
+        "page": 1
+    },
+    {
+        "title": "FARMHOUSE BREAKFAST TACOS",
+        "description": "Bacon, sausage, scrambled eggs, roasted potatoes, cheddar cheese, jalape\u00f1o, tomato, onion, and cilantro in flour tortillas served with salsa.",
+        "keywords": "entree, tacos, breakfast",
+        "page": 1
+    },
+    {
+        "title": "BREAKFAST BURRITO",
+        "description": "Flour tortilla stuffed with braised beef, melted cheeses, scrambled eggs, veggies, topped with spicy chipotle sauce served with roasted potatoes.",
+        "keywords": "entree, burrito, breakfast",
+        "page": 1
+    },
+    {
+        "title": "EGGS & BACON CROISSANT SANDWICH",
+        "description": "Bacon, two fried eggs, sliced tomatoes, melted cheddar and mayonnaise on a flaky croissant, served with sliced tomatoes.",
+        "keywords": "entree, sandwich, breakfast",
+        "page": 1
+    },
+    {
+        "title": "BROWN SUGAR OATMEAL",
+        "description": "Rolled oats with brown sugar and cranberries, served with milk.",
+        "keywords": "entree, oatmeal, breakfast",
+        "page": 1
+    },
+    {
+        "title": "TWO-EGG PLATTERS",
+        "description": "Two eggs served any style, with choice of protein, roasted potatoes and choice of toast or muffin.",
+        "keywords": "entree, eggs, breakfast",
+        "page": 1
+    },
+    {
+        "title": "CORNED BEEF HASH & EGGS",
+        "description": "Corned beef hash served with eggs.",
+        "keywords": "entree, eggs, corned beef",
+        "page": 1
+    },
+    {
+        "title": "FLORENTINE BENEDICT",
+        "description": "Bacon, poached eggs, spinach, sliced tomatoes topped with hollandaise sauce on a grilled English muffin.",
+        "keywords": "entree, eggs benedict, spinach",
+        "page": 1
+    },
+    {
+        "title": "CLASSIC BENEDICT",
+        "description": "Hickory-smoked ham and poached eggs topped with hollandaise sauce on a grilled English muffin.",
+        "keywords": "entree, eggs benedict, ham",
+        "page": 1
+    },
+    {
+        "title": "CORNED BEEF HASH BENEDICT",
+        "description": "Slow-cooked corned beef brisket and poached eggs, topped with hollandaise sauce on a grilled english muffin.",
+        "keywords": "eggs, brunch, corned beef, hollandaise",
+        "page": 1
+    },
+    {
+        "title": "SMOKED SALMON BENEDICT",
+        "description": "Cold-smoked Atlantic salmon and poached eggs, topped with hollandaise sauce, diced red onions and capers on a grilled english muffin.",
+        "keywords": "salmon, eggs, breakfast, hollandaise",
+        "page": 1
+    },
+    {
+        "title": "SANTA FE OMELET",
+        "description": "Three eggs, diced jalapenos, cilantro, tomatoes, onions, tortilla strips, melted monterey jack cheese and chipotle sauce. Served with roasted potatoes. Add avocado for $",
+        "keywords": "omelet, spicy, cheese, breakfast",
+        "page": 1
+    },
+    {
+        "title": "BACON AVOCADO OMELET",
+        "description": "Three eggs, hickory-smoked bacon, spinach, tomatoes, monterey jack cheese and avocado. Served with roasted potatoes.",
+        "keywords": "omelet, bacon, avocado, breakfast",
+        "page": 1
+    },
+    {
+        "title": "EGG WHITE & VEGGIE OMELET",
+        "description": "Three eggs, spinach, tomatoes, mushrooms, caramelized onions and crumbled feta cheese. Served with sliced tomatoes. Add avocado for $",
+        "keywords": "omelet, vegetarian, egg whites, healthy",
+        "page": 1
+    },
+    {
+        "title": "BACON, HAM & SAUSAGE OMELET",
+        "description": "Three eggs, hickory-smoked bacon, ham, pork sausage, andouille sausage, tomato and melted cheddar cheese. Served with roasted potatoes.",
+        "keywords": "omelet, bacon, sausage, breakfast",
+        "page": 1
+    },
+    {
+        "title": "SMOKED SALMON OMELET",
+        "description": "Three eggs, cold-smoked Atlantic salmon, diced red onions, capers and sour cream sauce. Served with roasted potatoes.",
+        "keywords": "omelet, salmon, breakfast, healthy",
+        "page": 1
+    },
+    {
+        "title": "MUFFINS",
+        "description": "Assorted muffins including Blueberry Crumble, Honey Bran, Buttermilk-Spice, and Carrot Raisin Nut available in 2-pack, 4-pack and 12-pack options.",
+        "keywords": "muffins, baked, sweet, breakfast",
+        "page": 1
+    },
+    {
+        "title": "HAM & SWISS CR\u00caPES",
+        "description": "Thick-cut ham and melted swiss cheese topped with a creamy mornay cheese sauce. Served with roasted potatoes.",
+        "keywords": "crepes, ham, swiss cheese, breakfast",
+        "page": 1
+    },
+    {
+        "title": "ADD-ONS",
+        "description": "Choose from sweet add-ons like Muffin, Croissant, Mixed Berries, Cinnamon Roll, and Carrot Raisin Nut Loaf, or savory add-ons like Roasted Potatoes, Peppers & Onions, Avocado, Cheese, and Four Strips of Bacon.",
+        "keywords": "extras, toppings, sides, customizable",
+        "page": 1
+    },
+    {
+        "title": "Skinny Margarita",
+        "description": "Tequila, salt rim and a lime wedge. (130 Cal)",
+        "keywords": "cocktail, tequila, low-calorie",
+        "page": 2
+    },
+    {
+        "title": "Patr\u00f3n Margarita",
+        "description": "Patr\u00f3n Silver Tequila, Patr\u00f3n Citr\u00f3nge, salt rim and a lime wedge. (150 Cal)",
+        "keywords": "cocktail, tequila, margarita",
+        "page": 2
+    },
+    {
+        "title": "Wildberry Daiquiri",
+        "description": "Rum, wildberries and fresh lime. (280 Cal)",
+        "keywords": "cocktail, rum, daiquiri",
+        "page": 2
+    },
+    {
+        "title": "Mimi\u2019s Sangarita",
+        "description": "Tequila, sangria, orange liqueur and a salt rim. (300 Cal)",
+        "keywords": "cocktail, tequila, sangria",
+        "page": 2
+    },
+    {
+        "title": "Grand Marnier Margarita",
+        "description": "Tequila, Grand Marnier, salt rim and a lime wedge. (290 Cal)",
+        "keywords": "cocktail, tequila, margarita",
+        "page": 2
+    },
+    {
+        "title": "French 75",
+        "description": "A Champagne split, gin, simple syrup and fresh lemon. (310 Cal)",
+        "keywords": "cocktail, champagne, gin",
+        "page": 2
+    },
+    {
+        "title": "Spiked Strawberry Lemonade",
+        "description": "Vodka and strawberry lemonade. (200 Cal)",
+        "keywords": "cocktail, vodka, lemonade",
+        "page": 2
+    },
+    {
+        "title": "French Mule",
+        "description": "Courvoisier, ginger ale, simple syrup and fresh lime. (210 Cal)",
+        "keywords": "cocktail, mule, ginger",
+        "page": 2
+    },
+    {
+        "title": "Long Island Iced Tea",
+        "description": "Vodka, gin, tequila, rum, orange liqueur and Coke. (240 Cal)",
+        "keywords": "cocktail, vodka, gin, rum",
+        "page": 2
+    },
+    {
+        "title": "Mimi\u2019s Mary",
+        "description": "Vodka, chili-lime spice rim, olive, celery and lime wedge. (150 Cal)",
+        "keywords": "cocktail, vodka, mary",
+        "page": 2
+    },
+    {
+        "title": "Spicy Mary",
+        "description": "Spicy vodka, chili-lime spice rim, olive, celery and lime wedge. (150 Cal)",
+        "keywords": "cocktail, vodka, spicy",
+        "page": 2
+    },
+    {
+        "title": "White Russian",
+        "description": "Vodka, coffee liqueur and cream. (160 Cal)",
+        "keywords": "cocktail, vodka, coffee",
+        "page": 2
+    },
+    {
+        "title": "Irish Coffee",
+        "description": "Hot coffee and Irish whiskey topped with whipped cream. (80 Cal)",
+        "keywords": "drink, coffee, whiskey",
+        "page": 2
+    },
+    {
+        "title": "Hot Tea",
+        "description": "Earl Grey, Green or Chamomile (0 Cal)",
+        "keywords": "drink, tea, hot beverage",
+        "page": 2
+    },
+    {
+        "title": "Hot Chocolate",
+        "description": "Hot Chocolate (180 Cal)",
+        "keywords": "drink, chocolate, hot beverage",
+        "page": 2
+    },
+    {
+        "title": "Coke",
+        "description": "Coke (120 Cal)",
+        "keywords": "soda, drink, cola",
+        "page": 2
+    },
+    {
+        "title": "Diet Coke",
+        "description": "Diet Coke (0 Cal)",
+        "keywords": "soda, drink, diet",
+        "page": 2
+    },
+    {
+        "title": "Sprite",
+        "description": "Sprite (120 Cal)",
+        "keywords": "soda, drink",
+        "page": 2
+    },
+    {
+        "title": "Dr Pepper",
+        "description": "Dr Pepper (150 Cal)",
+        "keywords": "soda, drink",
+        "page": 2
+    },
+    {
+        "title": "Orange Juice",
+        "description": "Orange (200 Cal)",
+        "keywords": "juice, drink, orange",
+        "page": 2
+    },
+    {
+        "title": "Grapefruit Juice",
+        "description": "Grapefruit (180 Cal)",
+        "keywords": "juice, drink, grapefruit",
+        "page": 2
+    },
+    {
+        "title": "Apple Juice",
+        "description": "Apple (200 Cal)",
+        "keywords": "juice, drink, apple",
+        "page": 2
+    },
+    {
+        "title": "Tomato Juice",
+        "description": "Tomato (80 Cal)",
+        "keywords": "juice, drink, tomato",
+        "page": 2
+    },
+    {
+        "title": "Cranberry Juice",
+        "description": "Cranberry (250 Cal)",
+        "keywords": "juice, drink, cranberry",
+        "page": 2
+    },
+    {
+        "title": "Petite House Salad",
+        "description": "Tossed in red wine shallot vinaigrette dressing. (190 Cal)",
+        "keywords": "starter, salad, vinaigrette",
+        "page": 2
+    },
+    {
+        "title": "Petite Caesar Salad",
+        "description": "Tossed in Caesar dressing with croutons and parmesan. (220 Cal)",
+        "keywords": "starter, salad, caesar",
+        "page": 2
+    },
+    {
+        "title": "Cup of Soup",
+        "description": "Choice of Tomato Basil, Corn Chowder or French Onion. (190 Cal)",
+        "keywords": "starter, soup",
+        "page": 2
+    },
+    {
+        "title": "Parmesan Crusted Chicken",
+        "description": "Crispy parmesan chicken breast, melted mozzarella and marinara sauce over linguine. (1290 Cal)",
+        "keywords": "main course, chicken, parmesan",
+        "page": 2
+    },
+    {
+        "title": "Tuscan-Style Grilled Chicken",
+        "description": "Grilled chicken, mashed potatoes, saut\u00e9ed vegetables and artichoke hearts served in a savory sauce. (610 Cal)",
+        "keywords": "main course, chicken, grilled",
+        "page": 2
+    },
+    {
+        "title": "Jambalaya",
+        "description": "Shrimp, chicken, andouille sausage, bell pepper and onion in jambalaya sauce over penne or long grain rice. (780-790 Cal)",
+        "keywords": "main course, shrimp, chicken, jambalaya",
+        "page": 2
+    },
+    {
+        "title": "Chardonnay",
+        "description": "Chardonnay, Louis Jadot (150 Cal)",
+        "keywords": "wine, chardonnay, white wine",
+        "page": 2
+    },
+    {
+        "title": "Sauvignon Blanc",
+        "description": "Sauvignon Blanc, Kunde (150 Cal)",
+        "keywords": "wine, sauvignon blanc, white wine",
+        "page": 2
+    },
+    {
+        "title": "Rose",
+        "description": "Rose (150 Cal)",
+        "keywords": "wine, rose, white wine",
+        "page": 2
+    },
+    {
+        "title": "Riesling",
+        "description": "Riesling, Chateau Ste. Michelle (150 Cal)",
+        "keywords": "wine, riesling, white wine",
+        "page": 2
+    },
+    {
+        "title": "Moscato",
+        "description": "Moscato, Seven Daughters (150 Cal)",
+        "keywords": "wine, moscato, white wine",
+        "page": 2
+    },
+    {
+        "title": "White Zinfandel",
+        "description": "White Zinfandel (150 Cal)",
+        "keywords": "wine, white zinfandel, white wine",
+        "page": 2
+    },
+    {
+        "title": "Pinot Grigio",
+        "description": "Pinot Grigio, Ecco Domani (150 Cal)",
+        "keywords": "wine, pinot grigio, white wine",
+        "page": 2
+    },
+    {
+        "title": "House White",
+        "description": "House White (150 Cal)",
+        "keywords": "wine, house wine, white wine",
+        "page": 2
+    },
+    {
+        "title": "Cabernet Sauvignon",
+        "description": "Cabernet Sauvignon, Layer Cake (150 Cal)",
+        "keywords": "wine, cabernet sauvignon, red wine",
+        "page": 2
+    },
+    {
+        "title": "Malbec",
+        "description": "Malbec, Layer Cake (150 Cal)",
+        "keywords": "wine, malbec, red wine",
+        "page": 2
+    },
+    {
+        "title": "Pinot Noir",
+        "description": "Pinot Noir, HobNob (150 Cal)",
+        "keywords": "wine, pinot noir, red wine",
+        "page": 2
+    },
+    {
+        "title": "Cabernet",
+        "description": "Cabernet, Josh Cellars (150 Cal)",
+        "keywords": "wine, cabernet, red wine",
+        "page": 2
+    },
+    {
+        "title": "Red Blend",
+        "description": "Red Blend, Apothic (150 Cal)",
+        "keywords": "wine, red blend, red wine",
+        "page": 2
+    },
+    {
+        "title": "Merlot",
+        "description": "Merlot, {Noble Vines} 181 (150 Cal)",
+        "keywords": "wine, merlot, red wine",
+        "page": 2
+    },
+    {
+        "title": "Red Sangria",
+        "description": "Red Sangria, Yellow Tail (150 Cal)",
+        "keywords": "wine, sangria, red wine",
+        "page": 2
+    },
+    {
+        "title": "House Red",
+        "description": "House Red (150 Cal)",
+        "keywords": "wine, house wine, red wine",
+        "page": 2
+    },
+    {
+        "title": "Mimi-Mosa",
+        "description": "A champagne split and orange juice with a tangerine burst. (220 Cal)",
+        "keywords": "mimosas, champagne, orange juice",
+        "page": 2
+    },
+    {
+        "title": "Sparkling Mimosa Flight",
+        "description": "Three of our favorite flavors: White Peach, Triple Berry and Mango. (810 Cal)",
+        "keywords": "mimosas, champagne, flight",
+        "page": 2
+    },
+    {
+        "title": "Champagne Split",
+        "description": "Champagne Split (270 Cal)",
+        "keywords": "mimosas, champagne",
+        "page": 2
+    },
+    {
+        "title": "Mango Mimosa",
+        "description": "A champagne split and orange juice with mango. (270 Cal)",
+        "keywords": "mimosas, champagne, mango",
+        "page": 2
+    },
+    {
+        "title": "White Peach Mimosa",
+        "description": "A champagne split and orange juice with the classic Bellini flavor of white peach. (270 Cal)",
+        "keywords": "mimosas, champagne, peach",
+        "page": 2
+    },
+    {
+        "title": "Triple Berry Mimosa",
+        "description": "A champagne split and orange juice with strawberry,",
+        "keywords": "mimosas, champagne, berry",
+        "page": 2
+    },
+    {
+        "title": "MIMI-MOSA",
+        "description": "A champagne split and orange juice with a tangerine burst.",
+        "keywords": "drink, champagne, mimosa, citrus",
+        "page": 2
+    },
+    {
+        "title": "SPARKLING MIMOSA FLIGHT",
+        "description": "Three of our favorite flavors: White Peach, Triple Berry and Mango.",
+        "keywords": "drink, champagne, mimosa, assorted",
+        "page": 2
+    },
+    {
+        "title": "MANGO MIMOSA",
+        "description": "A champagne split and orange juice with mango.",
+        "keywords": "drink, champagne, mimosa, mango",
+        "page": 2
+    },
+    {
+        "title": "WHITE PEACH MIMOSA",
+        "description": "A champagne split and orange juice with the classic Bellini flavor of white peach.",
+        "keywords": "drink, champagne, mimosa, peach",
+        "page": 2
+    },
+    {
+        "title": "TRIPLE BERRY MIMOSA",
+        "description": "A champagne split and orange juice with strawberry, blueberry and blackberry.",
+        "keywords": "drink, champagne, mimosa, berry",
+        "page": 2
+    },
+    {
+        "title": "APPLE MARTINI",
+        "description": "An apple-flavored martini.",
+        "keywords": "drink, martini, apple, cocktail",
+        "page": 2
+    },
+    {
+        "title": "COSMOPOLITAN",
+        "description": "A cosmopolitan cocktail.",
+        "keywords": "drink, martini, cosmopolitan, cocktail",
+        "page": 2
+    },
+    {
+        "title": "ESPRESSO MARTINI",
+        "description": "A martini with the flavor of espresso.",
+        "keywords": "drink, martini, espresso, cocktail",
+        "page": 2
+    },
+    {
+        "title": "CHOCOLATE MARTINI",
+        "description": "A martini with a rich chocolate flavor.",
+        "keywords": "drink, martini, chocolate, cocktail",
+        "page": 2
+    },
+    {
+        "title": "PEANUT BUTTER MOCHA",
+        "description": "An iced coffee with peanut butter and mocha flavors.",
+        "keywords": "coffee, mocha, peanut butter, iced",
+        "page": 2
+    },
+    {
+        "title": "WILD BERRY LATTE",
+        "description": "A latte with wild berry flavors.",
+        "keywords": "coffee, latte, berry, flavored",
+        "page": 2
+    },
+    {
+        "title": "HONEY PEACH LATTE",
+        "description": "A latte with honey and peach flavors.",
+        "keywords": "coffee, latte, peach, honey",
+        "page": 2
+    },
+    {
+        "title": "STRAWBERRY LEMONADE",
+        "description": "Lemonade with added strawberry flavor.",
+        "keywords": "soft drink, lemonade, strawberry, flavored",
+        "page": 2
+    },
+    {
+        "title": "TRIPLE BERRY LEMONADE",
+        "description": "Lemonade with a mix of three berries.",
+        "keywords": "soft drink, lemonade, berry, flavored",
+        "page": 2
+    },
+    {
+        "title": "ARNOLD PALMER",
+        "description": "A drink combining iced tea and lemonade.",
+        "keywords": "soft drink, iced tea, lemonade, hybrid",
+        "page": 2
+    },
+    {
+        "title": "MOCHA LATTE",
+        "description": "A latte with chocolate or mocha flavoring.",
+        "keywords": "coffee, latte, mocha, flavored",
+        "page": 2
+    },
+    {
+        "title": "CAPPUCCINO",
+        "description": "A classic foamy cappuccino.",
+        "keywords": "coffee, cappuccino, espresso, frothy",
+        "page": 2
+    },
+    {
+        "title": "CARAMEL MACCHIATO",
+        "description": "A macchiato with caramel flavoring.",
+        "keywords": "coffee, macchiato, caramel, flavored",
+        "page": 2
+    },
+    {
+        "title": "FRENCH ROAST COFFEE",
+        "description": "A strong French roast coffee.",
+        "keywords": "coffee, french roast, hot",
+        "page": 2
+    },
+    {
+        "title": "CAF\u00c9 LATTE",
+        "description": "A classic caf\u00e9 latte.",
+        "keywords": "coffee, latte, espresso, milk",
+        "page": 2
+    },
+    {
+        "title": "CAF\u00c9 AU LAIT",
+        "description": "A coffee with hot milk added.",
+        "keywords": "coffee, caf\u00e9 au lait, milk, hot",
+        "page": 2
+    },
+    {
+        "title": "ESPRESSO",
+        "description": "A concentrated form of coffee.",
+        "keywords": "coffee, espresso, strong, concentrated",
+        "page": 2
+    },
+    {
+        "title": "Budweiser",
+        "description": "A classic American lager.",
+        "keywords": "beer, lager, American",
+        "page": 2
+    },
+    {
+        "title": "Bud Light",
+        "description": "A light American lager.",
+        "keywords": "beer, lager, light, American",
+        "page": 2
+    },
+    {
+        "title": "Coors Light",
+        "description": "A light lager known for its cool, crisp taste.",
+        "keywords": "beer, lager, light",
+        "page": 2
+    },
+    {
+        "title": "Miller Lite",
+        "description": "A light lager popular in the US.",
+        "keywords": "beer, lager, light",
+        "page": 2
+    },
+    {
+        "title": "Newcastle",
+        "description": "A brown ale from Newcastle upon Tyne, England.",
+        "keywords": "beer, ale, brown ale, Newcastle",
+        "page": 2
+    },
+    {
+        "title": "Heineken",
+        "description": "A pale lager beer with a distinctive taste.",
+        "keywords": "beer, lager, pale, Heineken",
+        "page": 2
+    },
+    {
+        "title": "Stella Artois",
+        "description": "A Belgian pilsner with international fame.",
+        "keywords": "beer, pilsner, Belgian, Stella Artois",
+        "page": 2
+    },
+    {
+        "title": "Corona",
+        "description": "A popular Mexican pale lager, often served with lime.",
+        "keywords": "beer, lager, pale, Mexican",
+        "page": 2
+    },
+    {
+        "title": "Corona Light",
+        "description": "A lighter version of the traditional Corona lager.",
+        "keywords": "beer, lager, light, Mexican",
+        "page": 2
+    },
+    {
+        "title": "Samuel Adams",
+        "description": "A brand of American craft beers available in a variety of styles.",
+        "keywords": "beer, craft, American, Samuel Adams",
+        "page": 2
+    }
+]
